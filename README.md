@@ -1,39 +1,46 @@
-# 🔐 Şifrə Siyahıları (Password Lists)
+# 🔐 Password Lists
 
-Bu repoda müxtəlif məqsədlər üçün istifadə edilən `wordlist` (şifrə siyahıları) toplanır:
-- Brute-force hücumları
-- Pentest testləri
-- Tədris məqsədli CTF tapşırıqları
+This repository contains various wordlists used for different purposes such as:
 
-
-## 📁 Fayl Siyahısı
-
-| Fayl Adı             | Təsviri                        |
-|----------------------|-------------------------------|
-| `0.txt`              | Təkcə `0` rəqəmi               |
-| `1-10.000.txt`       | 1-dən 10,000-ə qədər rəqəmlər  |
-| `10.000-20.000.txt`  | 10,000-dən 20,000-ə qədər      |
-| `20.000-30.00.txt`   | 20,000-dən 30,000-ə qədər      |
-| `30.000-40.000.txt`  | 30,000-dən 40,000-ə qədər      |
-| `40.000-50.000.txt`  | 40,000-dən 50,000-ə qədər      |
-| `50.000-60.000.txt`  | 50,000-dən 60,000-ə qədər      |
-| `60.000-70.000.txt`  | 60,000-dən 70,000-ə qədər      |
-| `70.000-80.000.txt`  | 70,000-dən 80,000-ə qədər      |
-| `80.000-90.000.txt`  | 80,000-dən 90,000-ə qədər      |
-| `90.000-100.000.txt` | 90,000-dən 100,000-ə qədər     |
-| `1000000.txt`        | 1,000,000 rəqəm                |
-
-> Bütün siyahılar `.txt` formatındadır və **sadəcə rəqəmlərdən ibarətdir** – bruteforce testləri üçün idealdır.
+- Brute-force attacks  
+- Penetration testing  
+- Educational CTF (Capture The Flag) exercises  
 
 ---
 
-## ⚠️ Qeyd
+## 📁 File List
 
-Bu siyahılar **yalnız tədris və test məqsədilə** paylaşılır.  
-**Qanunsuz məqsədlərlə istifadə qəti qadağandır.**
+| Filename               | Description                             |
+|------------------------|-----------------------------------------|
+| `0.txt`                | Contains only the digit 0               |
+| `1-10.000.txt`         | Numbers from 1 to 10,000                |
+| `10.000-20.000.txt`    | Numbers from 10,000 to 20,000           |
+| `20.000-30.000.txt`    | Numbers from 20,000 to 30,000           |
+| `30.000-40.000.txt`    | Numbers from 30,000 to 40,000           |
+| `40.000-50.000.txt`    | Numbers from 40,000 to 50,000           |
+| `50.000-60.000.txt`    | Numbers from 50,000 to 60,000           |
+| `60.000-70.000.txt`    | Numbers from 60,000 to 70,000           |
+| `70.000-80.000.txt`    | Numbers from 70,000 to 80,000           |
+| `80.000-90.000.txt`    | Numbers from 80,000 to 90,000           |
+| `90.000-100.000.txt`   | Numbers from 90,000 to 100,000          |
+| `1000000.txt`          | A single number: 1,000,000              |
+
+> All files are in `.txt` format and contain only numeric values — ideal for brute-force testing.
 
 ---
 
-## 📌 Gələcəkdə əlavə olunacaq:
+## ⚠️ Disclaimer
 
-- Telefon nömrəsi formatında siyahılar (055xxxxxxx)
+These wordlists are shared for **educational and testing purposes only**.  
+Any illegal usage is strictly prohibited.
+
+---
+
+
+
+## 📚 Default Kali Linux Wordlists
+
+This repository also references some of the most commonly used default wordlists available in Kali Linux and similar pentesting distributions.
+
+👉 Full descriptions are available here: [default-wordlists.md](default-wordlists.md)
+
