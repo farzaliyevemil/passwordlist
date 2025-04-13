@@ -29,18 +29,25 @@ This repository contains various wordlists used for different purposes such as:
 
 ---
 
-## ⚠️ Disclaimer
-
-These wordlists are shared for **educational and testing purposes only**.  
-Any illegal usage is strictly prohibited.
-
----
-
-
 
 ## 📚 Default Kali Linux Wordlists
 
 This repository also references some of the most commonly used default wordlists available in Kali Linux and similar pentesting distributions.
 
 👉 Full descriptions are available here: [default-wordlists.md](default-wordlists.md)
+
+---
+
+## 🧰 Custom Wordlist Generation with Crunch
+
+In addition to pre-built wordlists, you can create your own using the `crunch` tool.
+
+👉 See detailed usage and examples here: [crunch-examples.md](crunch-examples.md)
+
+---
+
+## ⚠️ Disclaimer
+
+These wordlists are shared for **educational and testing purposes only**.  
+Any illegal usage is strictly prohibited.
 
