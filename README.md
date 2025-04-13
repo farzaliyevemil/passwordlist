@@ -46,6 +46,19 @@ In addition to pre-built wordlists, you can create your own using the `crunch` t
 
 ---
 
+## 🧠 Social Engineering Wordlists – CUpp
+
+In addition to static and generated wordlists, this repository highlights tools that generate **personalized password lists** using social engineering data.
+
+👉 Learn how to use CUpp here: [cupp-usage.md](cupp-usage.md)
+
+**CUpp** (Common User Passwords Profiler) is a popular Python tool that asks for basic user information (name, birthday, pet name, favorite color, etc.) and automatically generates a custom wordlist based on possible real-life passwords.
+
+It is widely used in CTFs and pentesting, and famously featured in **Mr. Robot**-style scenarios.
+
+
+---
+
 ## ⚠️ Disclaimer
 
 These wordlists are shared for **educational and testing purposes only**.  
